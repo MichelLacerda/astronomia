@@ -1,0 +1,10 @@
+# XMM-NEWTON SAS
+	https://www.cosmos.esa.int/web/xmm-newton/download-form?p_p_id=48_INSTANCE_gUKOliY2Q7Oa&_48_INSTANCE_gUKOliY2Q7Oa_iframe_f=2
+	ftp://legacy.gsfc.nasa.gov/xmm/software/sas/
+	ftp://legacy.gsfc.nasa.gov/xmm/software/sas/16.0.0/Linux/Ubuntu16.04/
+	https://www.cosmos.esa.int/web/xmm-newton/download-and-install-sas
+# HEASOFT
+	Marcar a flag *General-Use FTOOLS
+	https://heasarc.nasa.gov/lheasoft/download.html
+	https://heasarc.nasa.gov/lheasoft/ubuntu.html
+	https://heasarc.nasa.gov/lheasoft/install.html
