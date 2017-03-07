@@ -1,2 +1,3 @@
-# astronomia
-Repositórios temporário para manuais de instalação
+# Astronomia Livre
+Repositórios para manuais de instalação e tulização de softwares utilizados na Astronomia.
+https://github.com/MichelLacerda/astronomia/wiki
