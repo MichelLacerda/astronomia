@@ -4,9 +4,9 @@ title: Page Does Not Exist...
 permalink: /404.html
 ---
 
-<p><a class="post__back" href="/">&lt;-- voltar</a></p>
+<p><a class="post__back" href="{{ site.baseurl }}">&lt;-- voltar</a></p>
 <br>
 <center>
   <p>OOOOPS!! PÁGINA NÃO ENCONTRADA.</p>
-  <img src="assets/img/error-404.svg" width="50%">
+  <img src="{{ '/assets/img/error-404.svg' | prepend:site.baseurl }}" width="50%">
 </center>
