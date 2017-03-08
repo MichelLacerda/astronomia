@@ -12,3 +12,25 @@
 	https://heasarc.nasa.gov/lheasoft/download.html
 	https://heasarc.nasa.gov/lheasoft/ubuntu.html
 	https://heasarc.nasa.gov/lheasoft/install.html
+
+
+
+
+Agora vamos copiar o arquivo `sas-init.sh` para `sas-import.sh` e adicionar duas linhas ao final que serão responsáveis pela importação dos arquivos CCF e ODF.
+
+> Deverá ser executado apenas uma vez.
+
+```sh
+cp $HOME/astronomia/sas/xmmsas_20170112_1337/sas-init.sh $HOME/astronomia/sas/xmmsas_20170112_1337/sas-import.sh
+
+# https://xmm-tools.cosmos.esa.int/external/xmm_user_support/documentation/sas_usg/USG/cifbuild.html
+echo "cifbuild" >> $HOME/astronomia/sas/xmmsas_20170112_1337/sas-import.sh
+
+# https://xmm-tools.cosmos.esa.int/external/xmm_user_support/documentation/sas_usg/USG/odfingest.html
+echo "odfingest" >> $HOME/astronomia/sas/xmmsas_20170112_1337/sas-import.sh
+```
+
+Na primeira execução vamos rodar o comando `sas-import.sh` nos demais podemos usar o `sas-ìnit.sh`:
+```sh
+bash $HOME/astronomia/sas/xmmsas_20170112_1337/sas-import.sh
+```
