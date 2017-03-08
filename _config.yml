@@ -1,5 +1,5 @@
 # Blog settings
-permalink: /blog/:title
+permalink: /p/:title
 
 
 # 
@@ -10,7 +10,7 @@ google_verification: null
 
 # File management
 include: [".htaccess"]
-exclude: ["README.md", "LICENSE"]
+exclude: ["README.md", "LICENSE", "_posts/2017-02-05-creating-a-post.md.ref"]
 
 
 # Sass

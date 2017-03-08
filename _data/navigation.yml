@@ -1,8 +1,15 @@
-- title: about
+- title: home
+  url: /
+  target: _top
+
+- title: sobre
   url: /me
+  target: _top
 
 - title: github
-  url: https://github.com/getmicah
+  url: https://github.com/MichelLacerda
+  target: _blank
 
 - title: twitter
-  url: https://twitter.com/elonmusk
+  url: https://twitter.com/michel__lacerda
+  target: _blank
