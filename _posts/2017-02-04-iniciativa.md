@@ -16,7 +16,6 @@ Todos os softwares que eu desenvolver para astronomia será distribuído na lice
 
 Dicas, sugestões e dúvidas serão respondidas pelo canal de [Issues da Wiki](https://github.com/MichelLacerda/astronomia/issues)
 
-
 >**Ajude o projeto**
 >
 >[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=N4HRQGSFMN8HJ&lc=BR&item_name=Michel%20Lacerda&item_number=docao_astronomia_wiki&currency_code=BRL&bn=PP%2dDonationsBF%3aDonate%2dPayPal%2dgreen%2esvg%3aNonHosted)
