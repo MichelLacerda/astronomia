@@ -1,6 +1,6 @@
 # Blog settings
-permalink: /p/:title
-
+permalink: /post/:title
+baseurl: /astronomia
 
 # 
 name: Astronomia Livre
