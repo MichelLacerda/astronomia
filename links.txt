@@ -3,6 +3,10 @@
 	ftp://legacy.gsfc.nasa.gov/xmm/software/sas/
 	ftp://legacy.gsfc.nasa.gov/xmm/software/sas/16.0.0/Linux/Ubuntu16.04/
 	https://www.cosmos.esa.int/web/xmm-newton/download-and-install-sas
+	
+	https://www.cosmos.esa.int/web/xmm-newton/current-calibration-files
+	http://nxsa.esac.esa.int/nxsa-web/#search
+	
 # HEASOFT
 	Marcar a flag *General-Use FTOOLS
 	https://heasarc.nasa.gov/lheasoft/download.html
