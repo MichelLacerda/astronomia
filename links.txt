@@ -13,7 +13,8 @@
 	https://heasarc.nasa.gov/lheasoft/ubuntu.html
 	https://heasarc.nasa.gov/lheasoft/install.html
 
-
+# GCX
+	http://gcx.sourceforge.net/
 
 
 Agora vamos copiar o arquivo `sas-init.sh` para `sas-import.sh` e adicionar duas linhas ao final que serão responsáveis pela importação dos arquivos CCF e ODF.
