@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Iniciativa Astronomia Livre
+date: 2017-03-07
 author: Michel Lacerda
 ---
 
