@@ -58,4 +58,5 @@ Abaixo alguns links sobre Astrofotografia Móvel e ATM utilizando equipamento b�
 * [Stargazers Lounge -2012](https://stargazerslounge.com/topic/153781-cell-phone-astrophotography/)
 * [Telescope - Um pequeno artigo em inglês que fala a pratica de fotografar o céu com celular - 2013](http://www.telescope.com/Articles/Equipment/Accessories/Whats-Hot-Astrophotography-With-Your-Cell-Phone/pc/9/c/192/sc/196/p/102897.uts)
 * [Awesome Astronomy - mais ou menos 2011](https://www.awesomeastronomy.com/tutorials/planetary-imaging/54-smartphone-astrophotography-how-to-photograph-the-moon-planets-with-your-phone)
-
+* [Fotografia Profissional - Como fotografar o céu - 2013](http://www.fotografiaprofissional.org/como-fotografar-estrelas/)
+* [Dicas de Fotografia - 2013](http://www.dicasdefotografia.com.br/fotografia-noturna-como-fazer-fotos-do-ceu-estrelado/)
