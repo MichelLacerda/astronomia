@@ -18,9 +18,9 @@ Em meados de 2015 ao navegar pela internet me deparei com um site especializado 
 
 Compramos um telescópio (Sky-Watcher 70mm F/10 AZ2) e já nas primeiras observações e com total falta de pericia, observamos a Lua e Saturno. Foi um momento incrível, era possível notar a silhueta de Saturno mesmo que pouco evidente, o deslocamento era muito rápido e não conseguíamos usar uma ocular de maior aproximação. Para o primeiro dia até que fomos excelentemente bem.
 
-[![Saturno](/astronomia/imgs/IMG-20150630-WA0003.png){:height="250px" width="250px" style="display: block; float: left; margin: 15px;"}](https://raw.githubusercontent.com/MichelLacerda/astronomia/master/imgs/IMG-20150630-WA0003.png){:target="_blank"}
+[![Saturno](/astronomia/imgs/IMG-20150630-WA0003.png){:height="250px" width="250px" style="display: block; float: left; margin: 20px;"}](https://raw.githubusercontent.com/MichelLacerda/astronomia/master/imgs/IMG-20150630-WA0003.png){:target="_blank"}
 
-[![Lua](/astronomia/imgs/IMG_20150629_213125.png){:height="250px" width="250px" style="display: block; float: left; margin: 15px;"}](https://raw.githubusercontent.com/MichelLacerda/astronomia/master/imgs/IMG_20150629_213125.png){:target="_blank"}
+[![Lua](/astronomia/imgs/IMG_20150629_213125.png){:height="250px" width="250px" style="display: block; float: left; margin: 20px;"}](https://raw.githubusercontent.com/MichelLacerda/astronomia/master/imgs/IMG_20150629_213125.png){:target="_blank"}
 
 Com passar dos meses o cansaço e falta de tempo nos obrigou a deixar de lado as observações. Passamos a observar apenas eventos relevantes e mais fáceis de capturar. Nesse época não tínhamos conhecimento de que fotografar o céu era algo tão explorado ao redor do mundo, menos ainda que ao fazer isso com equipamento barato e comum (celular, camera digital e telescópio de menor abertura) viria se tornar um nicho. Por fim paramos mesmo, raramente tínhamos disposição de montar o equipamento e passar horas fotografando.
 
