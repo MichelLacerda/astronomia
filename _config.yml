@@ -1,6 +1,6 @@
 # Blog settings
 permalink: /post/:title
-baseurl: 
+baseurl: /
 
 # 
 name: Astronomia Livre
