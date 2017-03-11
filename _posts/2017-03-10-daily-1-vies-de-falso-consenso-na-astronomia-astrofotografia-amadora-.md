@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DAILY #1 - Viés de falso consenso na Astronomia/Astrofotografia Amadora"
+title: "DAILY #1 - Viés de falso consenso na Astronomia e Astrofotografia Amadora"
 date: 2017-03-10
 author: Michel Lacerda
 ---
@@ -18,9 +18,9 @@ Em meados de 2015 ao navegar pela internet me deparei com um site especializado 
 
 Compramos um telescópio (Sky-Watcher 70mm F/10 AZ2) e já nas primeiras observações e com total falta de pericia, observamos a Lua e Saturno. Foi um momento incrível, era possível notar a silhueta de Saturno mesmo que pouco evidente, o deslocamento era muito rápido e não conseguíamos usar uma ocular de maior aproximação. Para o primeiro dia até que fomos excelentemente bem.
 
-[![Lua](/astronomia/imgs/IMG_20150629_213125.png){:style="display: block; float: left; margin: 20px; max-width: 250px"}](https://raw.githubusercontent.com/MichelLacerda/astronomia/master/imgs/IMG_20150629_213125.png){:target="_blank"}
+[![Lua](/imgs/IMG_20150629_213125.png){:width="250" style=""}](https://raw.githubusercontent.com/MichelLacerda/astronomia/master/imgs/IMG_20150629_213125.png){:target="_blank"}
 
-[![Saturno](/astronomia/imgs/IMG-20150630-WA0003.png){:style="max-width: 250px; display: block; float: left; margin: 20px;"}](https://raw.githubusercontent.com/MichelLacerda/astronomia/master/imgs/IMG-20150630-WA0003.png){:target="_blank"}
+[![Saturno](/imgs/IMG-20150630-WA0003.png){:width="250" style=""}](https://raw.githubusercontent.com/MichelLacerda/astronomia/master/imgs/IMG-20150630-WA0003.png){:target="_blank"}
 
 Com passar dos meses o cansaço e falta de tempo nos obrigou a deixar de lado as observações. Passamos a observar apenas eventos relevantes e mais fáceis de capturar. Nesse época não tínhamos conhecimento de que fotografar o céu era algo tão explorado ao redor do mundo, menos ainda que ao fazer isso com equipamento barato e comum (celular, camera digital e telescópio de menor abertura) viria se tornar um nicho. Por fim paramos mesmo, raramente tínhamos disposição de montar o equipamento e passar horas fotografando.
 
@@ -51,7 +51,7 @@ Abaixo alguns links sobre Astrofotografia Móvel e ATM utilizando equipamento b�
 * [Tudo Celular - 2016](http://www.tudocelular.com/android/noticias/n65696/camera-lg-g4.html)
 * [DINIZ - Núcleo de Astrofotografia - 2013](http://gaea-diniz.blogspot.com.br/2013/08/o-celular-e-o-ceu.html)
 * [TecMundo - 2011](https://www.tecmundo.com.br/fotografia-e-design/14843-como-fotografar-ceus-estrelados.htm)
-* [Cosmofórum - Rick - 2008](http://cosmobrain.com.br/cosmoforum/viewtopic.php?t=3543) - Esse é incrível, de 2008, olha essa iniciativa INOVADORA, o pai da astrofotografia móvel brasileira.
+* [Cosmofórum - Rick - 2008](http://cosmobrain.com.br/cosmoforum/viewtopic.php?t=3543) - O pai da astrofotografia móvel brasileira - 2008.
 * [Um belo artigo de 2011 porém em Inglês](http://www.nytimes.com/2011/04/10/business/10novel.html?_r=1&ref=business)
 * [Surgimento de alguns adaptadores para celular - 2011](http://www.weasner.com/etx/reviews/2011/mx-1_iphone_adapter/mx-1_iphone_adapter.html)
 * [Magnifico forum de 2003 - fotografia feita com Nokia 7250i](http://www.weasner.com/etx/astrophotography/cellphones.html)
