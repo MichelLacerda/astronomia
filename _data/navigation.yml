@@ -6,6 +6,10 @@
   url: /me
   target: _top
 
+- title: wiki
+  url: https://github.com/michellacerda/astronomia/wiki
+  target: _blank
+
 - title: github
   url: https://github.com/MichelLacerda
   target: _blank
