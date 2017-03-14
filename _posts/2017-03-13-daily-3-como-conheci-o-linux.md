@@ -4,7 +4,7 @@ title:  "DAILY #3 - Como conheci o Linux!"
 date: 2017-03-11
 author: Michel Lacerda
 ---
-![Tux Mono](https://upload.wikimedia.org/wikipedia/commons/3/3a/Tux_Mono.svg){:width="250" align="middle"}
+![Tux Mono](/imgs/tux_mono.png){:width="250" align="middle"}
 
 A pelo menos 10 anos (não me recordo bem, talvez seja 15 anos)  atrás eu conhecia o Linux. Utilizei o Windows XP por alguns anos até ganhar um novo computador, nessa época eu não tinha conhecimento nenhum de informática avança, então presumi que poderia pegar o meu CD do Windows original e instalar em outro computador, mas não era bem assim, liguei para o suporte e fui informado que teria que comprar uma nova cópia, sem chances, era muito caro (ganhar o computador já era um grande feito, pedir mais alguma coisa seria suicídio), então resolvi pesquisar no **Cadê?** com os seguintes termos "sistema operacional grátis", o primeiro item na lista era o site do **Baixaki**, havia algumas distribuições Linux do tipo Live CD que diziam -*roda a partir de um CD!*.
 
