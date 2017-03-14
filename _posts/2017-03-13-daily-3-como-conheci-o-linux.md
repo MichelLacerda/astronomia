@@ -22,3 +22,6 @@ Vou deixar um texto do Linus Torvalds, traduzido por [Rodrigo Masi](https://pens
 > 
 > Você vai precisar passar horas e horas todos os dias, por pelo menos uns 10 anos. Se você fizer isso você será um dos melhores em alguma coisa. Mas o único jeito de se conseguir fazer algo por horas e horas é se você encontrar algo em que realmente esteja interessado em fazer!
 >-Linus Torvalds
+
+
+> Ajude a manter os textos bem escritos, qualquer erro de ortografia, concordância, incoerência , etc podem ser reportados. 
