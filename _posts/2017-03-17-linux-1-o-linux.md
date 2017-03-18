@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Linux #1 - O Linux!"
-date: 2017-03-11
+date: 2017-03-17
 author: Michel Lacerda
 ---
 ![GNU/Linux vs Linux](/imgs/gnu-linux.png){:width="300"}
