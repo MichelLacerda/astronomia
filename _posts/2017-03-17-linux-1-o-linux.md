@@ -11,7 +11,7 @@ Para entender o que é Linux precisamos entender um pouco sobre o que é GNU (GN
 
 Devido a esse pequeno infortúnio  Stallman decide criar um sistema operacional aos moldes do Unix, utilizando apenas software livre e sobre a licença GPL (General Public License - Licença Pública Geral), também criada por ele. Posteriormente  Stallman criou uma instituição sem fins lucrativos chamada de Free Software Foundation (Fundação para o Software Livre) para defender e propagar o software livre.
 
-Stallman desenvolveu diversas ferramentas que substituiam as ferramentas do Unix e que poderiam compor um sistema operacional, porem o seu kernel (hurd) estava e está longe de ser efetivamente útil, é nesse ponto da história que o Kernel Linux entra e da inicio a toda essa discussão.  Linus Torvalds lançou seu kernel sobe a licença GPL, possibilitando que as ferramentas do GNU pudessem ser incorporadas o Linux.
+Stallman desenvolveu diversas ferramentas que substituiam as ferramentas do Unix e que poderiam compor um sistema operacional, porem o seu kernel (hurd) estava e está longe de ser efetivamente útil, e é nesse ponto da história que o Kernel Linux entra e da inicio a toda essa discussão.  Linus Torvalds lançou seu kernel sobe a licença GPL, possibilitando que as ferramentas do GNU pudessem ser incorporadas o Linux.
 
 Agora que já sabemos que o Linux é um Kernel e GNU é um conjunto de ferramentas que compõe o sistema operacional GNU/Linux, não há motivos para discutir qual nome é mais adequado, já que se você substituir todas ferramentas GNU por qualquer outra equivalente o Kernel Linux não vai deixar de existir assim como o GNU também não.
 
