@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DAILY #3 - Como conheci o Linux!"
-date: 2017-03-11
+date: 2017-03-13
 author: Michel Lacerda
 ---
 ![Tux Mono](/imgs/tux_mono.png){:width="250"}
