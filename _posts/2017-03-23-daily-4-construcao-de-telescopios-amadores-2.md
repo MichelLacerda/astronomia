@@ -18,6 +18,6 @@ No sábado do dia 18/03/2017 eu concluí o corte do segundo bloco de vidro de 14
 
 Caso tenham interesse em sabe um pouco mais desse processo, o [Observatório Phoenix](http://www.observatorio-phoenix.org/) descreve bem os materiais necessários.
 
-![Tux Mono](/imgs/atm_2_01.jpg){:width="250"}
-![Tux Mono](/imgs/atm_2_02.jpg){:width="250"}
-![Tux Mono](/imgs/atm_2_01.jpg){:width="250"}
+[![Tux Mono](/imgs/atm_2_01.jpg){:width="250"}](http://www.astronomialivre.org/imgs/atm_2_01.jpg){:target="_blank"}
+[![Tux Mono](/imgs/atm_2_02.jpg){:width="250"}](http://www.astronomialivre.org/imgs/atm_2_02.jpg){:target="_blank"}
+[![Tux Mono](/imgs/atm_2_03.jpg){:width="250"}](http://www.astronomialivre.org/imgs/atm_2_03.jpg){:target="_blank"}
